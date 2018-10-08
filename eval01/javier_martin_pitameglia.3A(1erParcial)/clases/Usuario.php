@@ -36,7 +36,7 @@ class Usuario
 
         try
         {
-            $file = fopen('C:\xampp\htdocs\javier_martin_pitameglia.3A\clases\archivo\Usuario.JSON', "a+");
+            $file = fopen('C:\xampp\htdocs\javier_martin_pitameglia.3A(1erParcial)\clases\archivo\Usuario.JSON', "a+");
 
             fwrite($file,"". $this->ToJSON()."\n");
 
