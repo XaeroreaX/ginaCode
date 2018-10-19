@@ -1,0 +1,28 @@
+span
+{
+    color: blueviolet;
+    font-size: 120%;
+    font-family: fantasy;
+}
+
+
+input
+{
+    background-color: black;
+    color: white;
+    padding-left: 40px;
+}
+
+
+button
+{
+    
+    font-size: larger;
+    color: crimson;
+}
+
+
+form
+{
+    width: 45%;
+}
